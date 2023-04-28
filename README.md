@@ -1,5 +1,5 @@
 # json-server-hogwarts
-Simple Json Server for practicing simple api tests
+Simple Json Server for practicing simple api calls
 
 This json server will be accessible through this link
 
